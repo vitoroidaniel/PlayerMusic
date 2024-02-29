@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PlayerMusic</string>
+    <string name="prev">Prev</string>
+    <string name="Stop" />
+    <string name="Pause">pause</string>
+    <string name="Play">play\n</string>
+    <string name="Next">next</string>
+    <string-array name="song_names">
+        <item>Music 1</item>
+        <item>Music 2</item>
+        <item>Music 3</item>
+    </string-array>
+</resources>
